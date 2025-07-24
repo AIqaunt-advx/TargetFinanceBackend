@@ -1,7 +1,7 @@
 [project]
 name = "TargetFinance"
 version = "0.0.1"
-description = "Default template for PDM package"
+description = "A real-time financial data platform with AI-based company ranking for quantitative finance users."
 authors = [
     {name = "YanMo", email = "xiajiaruimail@qq.com"},
 ]
@@ -23,7 +23,7 @@ dependencies = [
     "aiohttp==3.9.1",
     "alpha-vantage==2.3.1",
 ]
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 readme = "README.md"
 license = {text = "MIT"}
 
